@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+body {
+    background-color: greenyellow;
+    color: black;
+}
+
+.number {
+    padding: 6.2px;
+    background-color: white;
+    text-align: center;
+    color: brown;
+}
+
+#picked-number {
+    margin-top: 25px;
+    font-size: 3.5px;
+}
+
+.card {
+    border: 2px red;
+    margin: 2vh;
+    display: grid;
+    background-color: white;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.picked {
+    background-color: green;
+    color: white;
+}
+#cards-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.winner {
+    border-color: green;
+}
