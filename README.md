@@ -1,6 +1,6 @@
 # Bingo
 
-Trabalho da matéria de Construção de Software para Web.
+Trabalho da matéria de Construção de Software para Web utilizando HTML, CSS e JavaScript.
 
 
 - Nome: Arthur Oliveira Rueda
